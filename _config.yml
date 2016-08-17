@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            bob muscarella
+title:            Bob Muscarella
 tagline:          'quantitative forest ecology'
 description:      'Postdoctoral researcher at Aarhus University <a href="https://twitter.com/bobmuscarella" target="_blank">@bobmuscarella</a>' 
 url:              http://bobmuscarella.github.io
