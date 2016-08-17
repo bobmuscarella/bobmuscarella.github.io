@@ -3,11 +3,8 @@ layout: default
 title: Home
 ---
 
-I am an Assistant Professor in the
-[Department of Zoology](http://www.zoology.ubc.ca/) and [Biodiversity
-Research Centre](http://www.biodiversity.ubc.ca) at the University of
-British Columbia in beautiful Vancouver, Canada. I use computational approaches to understand large-scale patterns of biodiversity and the evolutionary and ecological processes that generate them.
+I am an NSF Postdoctoral Fellow in the [Ecoinformatics and Biodiversity](http://www.x.ca/) section at [Aarhus University](http://www.x.ubc.ca) in Aarhus, Denmark.
 
-Contact me at pennell@zoology.ubc.ca
+Contact me at bob.muscarella@gmail.com
 
-Follow me on [twitter](https://twitter.com/mwpennell) and fork me on [GitHub](https://github.com/mwpennell).
+Follow me on [twitter](https://twitter.com/bobmuscarella) and fork me on [GitHub](https://github.com/bobmuscarella).
