@@ -3,8 +3,9 @@ layout: default
 title: Home
 ---
 
-I am an NSF Postdoctoral Fellow in the [Ecoinformatics and Biodiversity](http://www.x.ca/) section at [Aarhus University](http://www.x.ubc.ca) in Aarhus, Denmark.
+I am currently an NSF Postdoctoral Fellow working in [Ecoinformatics and Biodiversity](http://bios.au.dk/en/about-bioscience/organisation/ecoinformatics-and-biodiversity/) at Aarhus University in Denmark and the [Forest Ecology and Management](http://www.wageningenur.nl/en/Expertise-Services/Chair-groups/Environmental-Sciences/Forest-Ecology-and-Forest-Management-Group.htm) at Wageningen University in the Netherlands.
 
 Contact me at bob.muscarella@gmail.com
 
-Follow me on [twitter](https://twitter.com/bobmuscarella) and fork me on [GitHub](https://github.com/bobmuscarella).
+[twitter](https://twitter.com/bobmuscarella)
+[GitHub](https://github.com/bobmuscarella)
