@@ -6,16 +6,16 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            matthew pennell
-tagline:          'evolutionary biologist'
-description:      'Evolutionary biologist at the University of British Columbia <a href="https://twitter.com/mwpennell" target="_blank">@mwpennell</a>' 
-url:              http://mwpennell.github.io
+title:            bob muscarella
+tagline:          'quantitative forest ecology'
+description:      'Postdoctoral researcher at Aarhus University <a href="https://twitter.com/bobmuscarella" target="_blank">@bobmuscarella</a>' 
+url:              http://bobmuscarella.github.io
 
 author:
-  name:           'Matthew Pennell'
-  url:            https://twitter.com/mwpennell
+  name:           'Bob Muscarella'
+  url:            https://twitter.com/bobmuscarella
 
 # paginate:         5
 
 github:
-  repo:           https://github.com/mwpennell/mwpennell.github.io
+  repo:           https://github.com/bobmuscarella/bobmuscarella.github.io
