@@ -1,14 +1,10 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
-
 # Permalinks
 permalink:        pretty
 
 # Setup
 title:            Bob Muscarella
 tagline:          'quantitative forest ecology'
-description:      'Postdoctoral researcher at Aarhus University <a href="https://twitter.com/bobmuscarella" target="_blank">@bobmuscarella</a>' 
+description:      'Senior lecturer at Uppsala University' 
 url:              http://bobmuscarella.github.io
 
 author:
